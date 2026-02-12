@@ -1,9 +1,9 @@
 # RemoteClaw 🦀
 
-**Universal AI agent middleware.** Run Claude, Codex, or Gemini remotely via WhatsApp, Telegram, Slack, Discord, Signal, iMessage — with your full `~/.claude` configuration.
+> Your `~/.<agent>` — remotely.
 
-Fork of [OpenClaw](https://github.com/openclaw/openclaw). Different engine, same channels. No reimplemented agentic loop — just the official SDKs, 22 channel adapters, and nothing in between.
+Your local agent setup — skills, memory, configuration — over WhatsApp, Telegram, Slack, Discord, and 18 more channels. Nothing reimplemented. The SDKs do the work.
 
-The crab way.
+Fork of [OpenClaw](https://github.com/openclaw/openclaw). Different engine, same channels.
 
 [**Get started →**](https://github.com/remoteclaw/remoteclaw) · [remoteclaw.org](https://remoteclaw.org)
