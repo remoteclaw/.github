@@ -1,6 +1,6 @@
-# RemoteClaw 🦀
-
-> Your `~/.<agent>` — remotely.
+<p align="center">
+  <img src="profile/images/banner.png" alt="RemoteClaw — Your ~/.<agent> — remotely. The crab way 🦀" />
+</p>
 
 Your local agent setup — skills, memory, configuration — over WhatsApp, Telegram, Slack, Discord, and 18 more channels.
 
